@@ -9,7 +9,7 @@
   
 - 👀 I am looking for help with **Placements**
   
-- 💬 Ask me about Tech
+- 💬 Ask me about **Frontend Technologies**
 
 - 📫 How to reach me :balakrishnanthirumalt@gmail.com
 
