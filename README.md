@@ -4,10 +4,10 @@
 <h3 align = "center"> Full Stack Devoloper </h3>
 
 <img align="right" width="400"  src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"/>                                
-- I’m currently learning **React js** and **DSA**<br/>
-- I am looking for help with **Placements**<br/>
-- Ask me about Tech<br/>
-- How to reach me : **balakrishnanthirumalt@gmail.com**<br/>
+🌱 I’m currently learning **React js** and **DSA**<br/>
+👀 I am looking for help with **Placements**<br/>
+💬 Ask me about Tech<br/>
+📫 How to reach me : **balakrishnanthirumalt@gmail.com**<br/>
 <h3 align="left"> Connect with me</h3>
 <p align = "left>
   <a href="www.linkedin.com/in/balakrishnan-thirumal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevitha-ravikumar-24bb94235" height="30" width="40" /></a>
