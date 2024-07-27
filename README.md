@@ -27,7 +27,8 @@
 
 
 
-![balakrishnanthirumal's Stats](https://github-readme-stats.vercel.app/api?username=balakrishnanthirumal&theme=vue-dark&show_icons=true&hide_border=true&count_private=true))
-![LeetCode Stats](https://leetcard.jacoblin.cool/b_a_l_e_x theme=dark&font=Marcellus&ext=contest(https://leetcode.com/u/b_a_l_e_x/)
+![balakrishnanthirumal's Stats](https://github-readme-stats.vercel.app/api?username=balakrishnanthirumal&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![LeetCode Stats](https://leetcard.jacoblin.cool/b_a_l_e_x?theme=dark&font=Marcellus&ext=contest)
+
 
 
