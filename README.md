@@ -3,7 +3,8 @@
 <h1 align="center"> Hi there 👋 It's me Balakrishnan</h1>
 <h3 align = "center"> Full Stack Devoloper </h3>
 
-<img align="right" width="400"  src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                - 🌱 I’m currently learning React js and DSA
+<img align="right" width="400"  src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                
+- 🌱 I’m currently learning React js and DSA
 - 🤔 I am looking for help with Placements
 - 💬 Ask me about Tech
 - 📫 How to reach me : **balakrishnanthirumalt@gmail.com**
@@ -32,6 +33,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balakrishnanthirumal&show_icons=true&locale=en&layout=compact" alt="Balakrishnan" /></p>
 <br/>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/b_a_l_e_x?theme=dark&font=Marcellus&ext=contest)
+<p src="https://leetcard.jacoblin.cool/b_a_l_e_x?theme=dark&font=Marcellus&ext=contest"align="left"></p>
 
 
 
