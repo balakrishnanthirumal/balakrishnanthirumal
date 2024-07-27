@@ -26,6 +26,7 @@
 
 
 
+<p> <img align="center" src="https://leetcard.jacoblin.cool/b_a_l_e_x?theme=dark&font=Marcellus&ext=contest"></p>
 
 
 ![balakrishnanthirumal's Stats](https://github-readme-stats.vercel.app/api?username=balakrishnanthirumal&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
@@ -35,7 +36,6 @@
 
 
 
-<p> <img align="center" src="https://leetcard.jacoblin.cool/b_a_l_e_x?theme=dark&font=Marcellus&ext=contest"></p>
 
 
 
