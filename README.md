@@ -7,11 +7,12 @@
 - 🤔 I am looking for help with Placements
 - 💬 Ask me about Tech
 - 📫 How to reach me : **balakrishnanthirumalt@gmail.com**
-- <h3 align="left"> Connect with me</h3>
+<h3 align="left"> Connect with me</h3>
 <p align = "left>
   <a href="www.linkedin.com/in/balakrishnan-thirumal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevitha-ravikumar-24bb94235" height="30" width="40" /></a>
   </p>
-
+<br/>
+<br/>
 <h3 align="left">I code in</h3>
 <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/><img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/><img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css"/><img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
 
