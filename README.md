@@ -8,12 +8,10 @@
 - 👀 I am looking for help with **Placements**<br/>
 - 💬 Ask me about Tech<br/>
 - 📫 How to reach me : **balakrishnanthirumalt@gmail.com**<br/>
-<h3 align="left"> Connect with me</h3>
-<p align = "left>
-  <a href="www.linkedin.com/in/balakrishnan-thirumal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevitha-ravikumar-24bb94235" height="30" width="40" /></a>
-  </p>
-<br/>
-<br/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/balakrishnan-thirumal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevitha-ravikumar-24bb94235" height="30" width="40" /></a>
+</p>
 <h3 align="left">Tech Stack I use: </h3>
 
 <section align=""left">
