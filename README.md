@@ -33,7 +33,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balakrishnanthirumal&show_icons=true&locale=en&layout=compact" alt="Balakrishnan" /></p>
 <br/>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/b_a_l_e_x?theme=dark&font=Marcellus&ext=contest)
+
+<p> <img align="left" src="https://leetcard.jacoblin.cool/b_a_l_e_x?theme=dark&font=Marcellus&ext=contest"></p>
 
 
 
