@@ -1,9 +1,8 @@
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2FPolarBearGG%2FPolarBearGG%2Fmaster%2Fweb-developer.gif&f=1&nofb=1&ipt=1a4e918d94661b1070dff38725a65271012ce16fcc6f026280ed23da7057be38&ipo=images">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2FPolarBearGG%2FPolarBearGG%2Fmaster%2Fweb-developer.gif&f=1&nofb=1&ipt=1a4e918d94661b1070dff38725a65271012ce16fcc6f026280ed23da7057be38&ipo=images" height="100">
 <style>
   .container{
     display:flex;
-    }
-  
+}
 </style>
 <h1 align="center"> Hi there 👋 It's me Balakrishnan</h1>
 <h3 align = "center"> Full Stack Devoloper </h3>
