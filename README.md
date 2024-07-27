@@ -29,12 +29,12 @@
 
 
 ![balakrishnanthirumal's Stats](https://github-readme-stats.vercel.app/api?username=balakrishnanthirumal&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-<br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balakrishnanthirumal&show_icons=true&locale=en&layout=compact" alt="Balakrishnan" /></p>
-<br/>
+
+<p>img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=balakrishnanthirumal&show_icons=true&locale=en&layout=compact" alt="Balakrishnan"></p>
 
 
-<p> <img align="left" src="https://leetcard.jacoblin.cool/b_a_l_e_x?theme=dark&font=Marcellus&ext=contest"></p>
+
+<p> <img align="center" src="https://leetcard.jacoblin.cool/b_a_l_e_x?theme=dark&font=Marcellus&ext=contest"></p>
 
 
 
