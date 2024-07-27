@@ -2,15 +2,20 @@
 
 <h1 align="center"> Hi there 👋 It's me Balakrishnan</h1>
 <h3 align = "center"> Curious Full Stack Devoloper </h3>
+<img align="right" width="400"  src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"/>        
 
-<img align="right" width="400"  src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"/>                                
-- 🌱 I’m currently learning **React js** and **DSA**<br/>
-- 👀 I am looking for help with **Placements**<br/>
-- 💬 Ask me about Tech<br/>
-- 📫 How to reach me : **balakrishnanthirumalt@gmail.com**<br/>
+                        
+- 🌱 I’m currently learning **React js** and **DSA**
+  
+- 👀 I am looking for help with **Placements**
+  
+- 💬 Ask me about Tech
+
+- 📫 How to reach me :balakrishnanthirumalt@gmail.com
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/balakrishnan-thirumal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevitha-ravikumar-24bb94235" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/balakrishnan-thirumal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
 </p>
 <h3 align="left">Tech Stack I use: </h3>
 
@@ -25,7 +30,7 @@
 
 ![balakrishnanthirumal's Stats](https://github-readme-stats.vercel.app/api?username=balakrishnanthirumal&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=balakrishnanthirumal&show_icons=true&locale=en&layout=compact"  /></p>
+<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=balakrishnanthirumal&show_icons=true&locale=en&layout=compact"  /></span>
 
 
 
