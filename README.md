@@ -1,7 +1,7 @@
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2FPolarBearGG%2FPolarBearGG%2Fmaster%2Fweb-developer.gif&f=1&nofb=1&ipt=1a4e918d94661b1070dff38725a65271012ce16fcc6f026280ed23da7057be38&ipo=images">
 
 <h1 align="center"> Hi there 👋 It's me Balakrishnan</h1>
-<h3 align = "center"> Full Stack Devoloper </h3>
+<h3 align = "center"> Curious Full Stack Devoloper </h3>
 
 <img align="right" width="400"  src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"/>                                
 🌱 I’m currently learning **React js** and **DSA**<br/>
